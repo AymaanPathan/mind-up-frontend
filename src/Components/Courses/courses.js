@@ -57,6 +57,7 @@ const courses = [
       "Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns.",
     image: react1,
     video: reactVideo1,
+    link: "https://www.youtube.com/watch?v=LDB4uaJ87e0",
   },
   {
     id: 2,
@@ -75,6 +76,7 @@ const courses = [
       "Deep dive into advanced React patterns, including hooks, custom hooks, and context API.",
     image: react2,
     video: reactVideo2,
+    link: "https://www.youtube.com/watch?v=qTDnwmMF5q8&list=PL6dw1BPCcLC4n-4o-t1kQZH0NJeZtpmGp",
   },
   {
     id: 3,
@@ -93,6 +95,7 @@ const courses = [
       "A beginner-friendly course on React that covers the basics and essential concepts.",
     image: react3,
     video: reactVideo3,
+    link: "https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
   },
   {
     id: 4,
@@ -109,6 +112,7 @@ const courses = [
       "Understand the core concepts of JavaScript, including ES6+ features, and asynchronous programming.",
     image: js1,
     video: jsVideo1,
+    link: "https://www.youtube.com/watch?v=W6NZfCO5SIk",
   },
   {
     id: 5,
@@ -125,6 +129,7 @@ const courses = [
       "Explore advanced JavaScript topics such as closures, prototypes, and functional programming.",
     image: js2,
     video: jsVideo2,
+    link: "https://www.youtube.com/watch?v=FPmgQsXMPqI&list=PLovN13bqAx7D_MFjL0PHnCkYAHMSO8-kU",
   },
   {
     id: 6,
@@ -141,6 +146,7 @@ const courses = [
       "Learn modern JavaScript features and syntax introduced in ES6 and beyond.",
     image: js3,
     video: jsVideo3,
+    link: "https://www.youtube.com/watch?v=4ynLm0TaK1w&list=PLFAU47Id44XElZTM3G8S8YydhPbfAJ-N0",
   },
   {
     id: 7,
@@ -157,6 +163,7 @@ const courses = [
       "Learn the basics of server-side programming with Node.js and build your first API.",
     image: backend1,
     video: backendVideo1,
+    link: "https://www.youtube.com/watch?v=32M1al-Y6Ag",
   },
   {
     id: 8,
@@ -173,6 +180,7 @@ const courses = [
       "In-depth course on Python, covering middleware, routing, and integrating with databases.",
     image: backend2,
     video: backendVideo2,
+    link: "https://www.youtube.com/watch?v=7CE1LSZ_pno&list=PLm_MSClsnwm-8eZ4n0XVe94AQT8C7DHjv",
   },
   {
     id: 9,
@@ -189,6 +197,7 @@ const courses = [
       "Advanced topics in Node.js, including performance optimization, security, and scaling applications.",
     image: backend3,
     video: backendVideo3,
+    link: "https://www.youtube.com/watch?v=HgZMqVXQQbM&list=PLaLqLOj2bk9Zjx2Rvy1wyA7VUR668yF8n",
   },
   {
     id: 10,
@@ -205,6 +214,7 @@ const courses = [
       "Get started with Tailwind CSS and learn how to create responsive and modern web designs.",
     image: css1,
     video: cssVideo1,
+    link: "https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
   },
   {
     id: 11,
@@ -221,6 +231,7 @@ const courses = [
       "Explore advanced techniques in Tailwind CSS for creating complex and scalable web designs.",
     image: css2,
     video: cssVideo2,
+    link: "https://www.youtube.com/watch?v=EkRuAOsmXm0&list=PLt2fZkYs6q_l2WebLGr6biyk551rLUtLV",
   },
   {
     id: 12,
@@ -237,6 +248,7 @@ const courses = [
       "Learn to create responsive and visually appealing designs using Tailwind CSS.",
     image: css3,
     video: cssVideo3,
+    link: "https://www.youtube.com/watch?v=PuovsjZN11Y",
   },
   {
     id: 13,
@@ -253,6 +265,7 @@ const courses = [
       "Comprehensive course covering both frontend and backend development using JavaScript technologies.",
     image: fullstack1,
     video: fullstackVideo1,
+    link: "https://www.youtube.com/watch?v=H3XIJYEPdus&list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR",
   },
   {
     id: 14,
@@ -269,6 +282,7 @@ const courses = [
       "Learn to build scalable full-stack applications with advanced topics in React, Node.js, and cloud services.",
     image: fullstack2,
     video: fullstackVideo2,
+    link: "https://www.youtube.com/watch?v=NeWMO_vFpe8",
   },
   {
     id: 15,
@@ -285,6 +299,7 @@ const courses = [
       "A complete guide to building full-stack applications using the Java stack (Java, Spring Boot).",
     image: fullstack3,
     video: fullstackVideo3,
+    link: "https://www.youtube.com/watch?v=r4EqfjMsP48&list=PLU2wpJsXyAjnmTQPc4KM7kP1dq2lnkQ5O",
   },
   {
     id: 16,
@@ -301,6 +316,7 @@ const courses = [
       "A complete guide to building full-stack applications using Python frameworks such as Django and Flask.",
     image: python,
     video: pythonVideo,
+    link: "https://www.youtube.com/watch?v=mpnBNGOSplA&list=PLS1QulWo1RIYt4e0WnBp-ZjCNq8X0FX0J",
   },
 ];
 

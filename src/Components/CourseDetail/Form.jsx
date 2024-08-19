@@ -27,7 +27,6 @@ function Form({ isOpen }) {
       return;
     }
 
-    // Store data in localStorage
     localStorage.setItem("username", username);
     localStorage.setItem("email", email);
 
